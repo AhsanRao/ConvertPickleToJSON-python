@@ -12,6 +12,7 @@ json
 2. Open a command prompt or terminal and navigate to the directory where the script is located.
 
 3. Run the script with the following command:
+
         python pickle_to_json_converter.py path_to_pickle_file
 
     Replace path_to_pickle_file with the actual path to the Pickle file you want to convert.
