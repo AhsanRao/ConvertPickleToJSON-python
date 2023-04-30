@@ -15,7 +15,7 @@ json
 
         python pickle_to_json_converter.py path_to_pickle_file
 
-Replace path_to_pickle_file with the actual path to the Pickle file you want to convert.
+    Replace path_to_pickle_file with the actual path to the Pickle file you want to convert.
 
 4. The script will create a new JSON file in the same directory as the original Pickle file, with the same name but a .json extension.
 
